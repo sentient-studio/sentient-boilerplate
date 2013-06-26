@@ -1,3 +1,7 @@
 *~
 .DS_Store
+<<<<<<< HEAD
 *.esproj
+=======
+*.esproj
+>>>>>>> Initial commit
