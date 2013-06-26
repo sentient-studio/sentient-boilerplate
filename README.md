@@ -1,4 +1,4 @@
-#Sentient Boilerplate
+##Sentient Boilerplate
 
 ####A simple, lightweight boilerplate to help kick start your front-end projects.
 
